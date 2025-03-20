@@ -18,7 +18,7 @@ A simple **To-Do Web App** built using **Angular** for the frontend and **Spring
 - **Framework:** Angular
 - **Languages:** TypeScript, HTML, CSS
 - **State Management:** Services
-- **UI Framework:** Bootstrap/Material UI (if used)
+- **UI Framework:** Bootstrap
 
 ### 🔹 Backend
 - **Framework:** Spring Boot
